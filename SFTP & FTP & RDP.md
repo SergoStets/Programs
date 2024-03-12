@@ -1,10 +1,9 @@
-SFTP & FTP & RDP
+# SFTP & FTP & RDP
 
-<aside>
-💡 **WINSCP**
+1) WINSCP
 
-Lm-viewer
+2) Lm-viewer
 
-**[LiteManager](http://litemanager.ru/)**
+3) LiteManager -- (http://litemanager.ru/) 
 
-</aside>
+4) FileZilla
