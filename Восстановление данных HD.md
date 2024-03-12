@@ -1,7 +1,3 @@
 Восстановление данных HD
-
-<aside>
-💡 
-minitool power data recovery
-
-</aside>
+ 
+minitool power data recovery ( программа по виндовс )

@@ -1,8 +1,5 @@
-Разблокировка iphone
+# Разблокировка iphone
 
-<aside>
-💡 joyoshare
-ipasscode 
-unlocker
-
-</aside>
+1) joyoshare
+2) ipasscode 
+3) unlocker

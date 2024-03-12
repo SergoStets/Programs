@@ -1,10 +1,5 @@
-## Microtik
+# Microtik
 
-<aside>
-💡 Winbox
+1) Winbox -- https://joshaven.com/resources/tools/winbox-for-mac/
 
-https://joshaven.com/resources/tools/winbox-for-mac/
 
-Git winbox-for-mac
-
-</aside>
